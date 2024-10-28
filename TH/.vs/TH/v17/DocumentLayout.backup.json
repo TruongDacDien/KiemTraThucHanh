@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\controllers\\homeaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\controllers\\homeaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\home\\proinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\home\\proinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\homeaccess\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\homeaccess\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\homeaccess\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\homeaccess\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\admin\\downloads\\th-main\\th\\th\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TH\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:17:41.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:13:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TH\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TH\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:12:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TH\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Models\\Product.cs",
+              "RelativeToolTip": "TH\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:13:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Home\\ProInfo.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\Home\\ProInfo.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Home\\ProInfo.cshtml",
+              "RelativeToolTip": "TH\\Views\\Home\\ProInfo.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:54:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:52:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\HomeAccess\\Register.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\HomeAccess\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\HomeAccess\\Register.cshtml",
+              "RelativeToolTip": "TH\\Views\\HomeAccess\\Register.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDQAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:16:31.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:11:07.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:08:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\HomeAccess\\Login.cshtml",
+              "RelativeDocumentMoniker": "TH\\Views\\HomeAccess\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Views\\HomeAccess\\Login.cshtml",
+              "RelativeToolTip": "TH\\Views\\HomeAccess\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:04:17.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA/wAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:03:05.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:59:28.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeAccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Controllers\\HomeAccessController.cs",
+              "RelativeDocumentMoniker": "TH\\Controllers\\HomeAccessController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Controllers\\HomeAccessController.cs",
+              "RelativeToolTip": "TH\\Controllers\\HomeAccessController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIAwwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:56:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "TH\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\TH-main\\TH\\TH\\Models\\Account.cs",
+              "RelativeToolTip": "TH\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:24:24.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
